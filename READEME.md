@@ -124,3 +124,4 @@ python phase2_load.py
 - **2022** was a negative year across all tickers, with NVDA and AMZN both declining ~50%
 - **MSFT** showed the most consistent risk-adjusted performance with lower drawdowns relative to its return
 - Correlation analysis shows all 5 stocks are positively correlated, with AAPL/MSFT being the most closely correlated pair
+- 
